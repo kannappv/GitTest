@@ -3,4 +3,10 @@
 I have this text
 
 
+<<<<<<< HEAD
 This text for testing fetch. This is changes..............
+=======
+This text for testing fetch
+
+New test
+>>>>>>> 349462a42ee6a7e9f7f9de15ae83f17429a06dc4
